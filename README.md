@@ -1,1 +1,1 @@
-# rebrain-devops-task1
+This repository contains the default nginx configuration file.
